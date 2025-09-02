@@ -1,2 +1,2 @@
 # At-Risk-Loans
-ML detection  for at risk loans
+Using Machine Learning Techniques to predict at-risk loans.
